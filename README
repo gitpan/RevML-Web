@@ -1,0 +1,30 @@
+RevML::Web - Revision log analyzer.
+
+The RevML::Web is a revision log analizer, based on RevML.
+It import many revml files into mysql, and generate many kinds
+of statistic view based on directories and developers,
+to show the contribution of a developer.
+
+Install
+
+    To install this module, you'll have to use CPAN
+
+       install RevML::Web
+
+    Or, if you prefer to do it manually, just
+
+        perl Makefile.PL
+        make
+        make install
+
+    It'll install many necessary libraries, and a script named
+    "revml-web-cmd" into your bin/ library. (/usr/bin or
+    /usr/local/bin , depending or your system preferences)
+
+Usage
+
+    Check the pod of "revml-web-cmd" for usage.
+
+Cheers,
+Kang-min Liu
+

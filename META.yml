@@ -1,0 +1,17 @@
+# http://module-build.sourceforge.net/META-spec.html
+#XXXXXXX This is a prototype!!!  It will change in the future!!! XXXXX#
+name:         RevML-Web
+version:      0.01_1
+version_from: 
+installdirs:  site
+requires:
+    Class::DBI:                    0.96
+    Email::Find:                   0
+    Imager::Graph:                 0
+    Spiffy:                        0.17
+    Spoon:                         0.14
+    XML::Twig:                     0
+    YAML:                          0
+
+distribution_type: module
+generated_by: ExtUtils::MakeMaker version 6.21

@@ -1,0 +1,27 @@
+bin/revml-web-cmd
+doc/revml.dtd
+lib/RevML/Web/Command.pm
+lib/RevML/Web/Config.pm
+lib/RevML/Web/DB.pm
+lib/RevML/Web/DBI/Count.pm
+lib/RevML/Web/DBI/Project.pm
+lib/RevML/Web/DBI/Revision.pm
+lib/RevML/Web/DBI/RevML.pm
+lib/RevML/Web/DBI/Statistic.pm
+lib/RevML/Web/DBI.pm
+lib/RevML/Web/Generator.pm
+lib/RevML/Web/Hub.pm
+lib/RevML/Web/I18N.pm
+lib/RevML/Web/Statistics.pm
+lib/RevML/Web/Template/TT2.pm
+lib/RevML/Web/Util.pm
+lib/RevML/Web.pm
+Makefile.PL
+MANIFEST
+mysql_schema.sql
+README
+t/0.use.t
+utils/fetch-sf-cvstarball.pl
+utils/revml-to-mysqldb.pl
+
+META.yml                                 Module meta-data (added by MakeMaker)
